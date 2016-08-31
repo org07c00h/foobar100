@@ -3,8 +3,8 @@ collection_instances {
   id: "ground"
   collection: "/main/collections/ground.collection"
   position {
-    x: -764.0644
-    y: 0.0
+    x: 378.07928
+    y: 95.78104
     z: 0.0
   }
   rotation {
